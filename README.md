@@ -1,0 +1,2 @@
+# TextureConverter
+最大4枚のテクスチャをコンバートするEditor拡張
