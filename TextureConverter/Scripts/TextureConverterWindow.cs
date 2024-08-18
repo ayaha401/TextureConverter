@@ -185,6 +185,7 @@ namespace AyahaGraphicDevelopTools.TextureConverter
                 if (GUILayout.Button("•Û‘¶"))
                 {
                     DrawSaveTexture(convertedTexturePreview);
+                    AssetDatabase.Refresh();
                 }
             }
         }
