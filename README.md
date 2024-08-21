@@ -27,5 +27,5 @@ AyahaGraphicdevelopTools > TextureConveterを選択
 |Custom|任意|
 保存ボタンで設定したテクスチャサイズで保存できます。
 
-#不具合
+# 不具合
 * 現状未確認
